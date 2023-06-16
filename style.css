@@ -1,11 +1,12 @@
 body {
     background: lightsteelblue;
-};
+}
 h2 {
     color: grey;
     text-align: end;
-    text-align: right;
     font-style: italic;
+    margin-inline-end: 5px;
+    font-size: 1em;
 }
 h1 {
     text-align: center;
