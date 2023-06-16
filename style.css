@@ -1,3 +1,14 @@
 body {
-    background: blue;
+    background: lightsteelblue;
 };
+h2 {
+    color: grey;
+    text-align: end;
+    text-align: right;
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    color:darkslategray;
+}
