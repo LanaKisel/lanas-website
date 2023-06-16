@@ -36,7 +36,7 @@ img.barcelona {
     margin-left: 10px;
     margin-right: 240px; 
 }
-img .img2 {
+img#img2 {
     display: block;
     margin-left: 250px;
     margin-right: 470px;
