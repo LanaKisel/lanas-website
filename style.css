@@ -34,10 +34,16 @@ p.barcelona {
 img.barcelona {
     display: block;
     margin-left: 10px;
-    margin-right: 240px; 
+    margin-right: 30px; 
 }
 img#img2 {
     display: block;
-    margin-left: 250px;
-    margin-right: 470px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h3#links {
+    font-style: italic;
+    color: dimgrey;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
 }
