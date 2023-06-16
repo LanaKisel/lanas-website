@@ -11,5 +11,33 @@ h2 {
 h1 {
     text-align: center;
     text-decoration: wavy;
+    color:  grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+h3 {
+    text-align: left;
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    font-weight: bold;
     color:darkslategray;
+    font-style: italic;
+}
+p.barcelona {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: dimgrey;
+    font-size: 1em;
+    
+}
+img.barcelona {
+    display: block;
+    margin-left: 10px;
+    margin-right: 240px; 
+}
+img .img2 {
+    display: block;
+    margin-left: 250px;
+    margin-right: 470px;
 }
