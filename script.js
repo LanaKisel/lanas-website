@@ -6,12 +6,12 @@ document.querySelector("body").appendChild(h2);
     { transform: "rotate(0) scale(1)" },
     { transform: "rotate(360deg) scale(0)" },
   ];
-  
+
   const imgTiming = {
     duration: 2000,
     iterations: 1,
   };
-  
+
   const image = document.querySelector(".img1");
   
   image.addEventListener("click", () => {
@@ -21,10 +21,11 @@ document.querySelector("body").appendChild(h2);
 
 
 function addingEventListener() {
-const img = document.getElementsById('lol');
-function clickAlert() {
-    alert('I was clicked!');
-  }
+const img = document.getElementById('lol');
+console.log(img);function clickAlert() {
+     alert('I was clicked!');
+}
+
 img.addEventListener('click', clickAlert)};
 addingEventListener();
 
